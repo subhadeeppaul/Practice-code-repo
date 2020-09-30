@@ -26,3 +26,4 @@
 
 - Plagiarism is strictly prohibited
   
+- There should be atleast 4 programs with comments that cn help others understand.
