@@ -25,5 +25,11 @@
  #### DON'T FORGET TO ADD UP COMMENTS TO THE CODE-- (HELP EVERYONE UNDERSTAND) .
   
   
-  
+## CODE OF CONDUCT
+
+By participating, you agree to abide by the following code of conduct.
+
+- Please treat all the participants with the utmost respect. Behave professionally, and do not insult or put down other attendees. Any kind of harassment will not be tolerated and if you see such activities kindly report to the hackathon organizer.
+
+- All the designed code must be your own and must be created during the event, plagiarism is strictly prohibited. 
   
