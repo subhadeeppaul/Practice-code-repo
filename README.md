@@ -1,35 +1,28 @@
 # Practice-code-repo
 
-
-
-
-
 ## A repo for all the beginners this Hacktober- 2020 
-
-
-
-  IF YOU ARE NEW TO HACKTOBER FEST AND A LITTLE WORRIED ABOUT WHERE TO START FROM, WHAT/HOW TO CONTRIBUTE AND HOW TO GET
-  THE PULL REQUEST MERGED.
   
-
-
-  DON'T WORRY--
+  If it's your first Hacktober Fest and you're feeling a bit nervous or unsure, this is a great place to do a test run! You can use this repo as an oportunity to get familiar with contributing via Pull Requests (PRs). Fret not, it's pretty simple! Just follow these steps:
   
-  
-  JUST ADD A FILE WITH THE CODES YOU THINK ARE GOOD TO PRACTICE AND HELPFUL TO LEARN A CONCEPT OR SYNTAX IN ANY LANGUAGE
-  OR FRAMEWORK. 
+- Read the CoC (Code of Conduct)  
+- Fork the repo
+- Create a new file in the forked repo
+- Add practice code in any language of your choice
+- Create a PR to this repo
   
   
-  
-  
- #### DON'T FORGET TO ADD UP COMMENTS TO THE CODE-- (HELP EVERYONE UNDERSTAND) .
+**Don't forget to document your work! It will help others understand your code at a glance**
   
   
 ## CODE OF CONDUCT
 
-By participating, you agree to abide by the following code of conduct.
+**By participating, you agree to abide by the following code of conduct:**
 
-- Please treat all the participants with the utmost respect. Behave professionally, and do not insult or put down other attendees. Any kind of harassment will not be tolerated and if you see such activities kindly report to the hackathon organizer.
+- Behave professionally - do not insult/put down other participants and treat everyone with respect
 
-- All the designed code must be your own and must be created during the event, plagiarism is strictly prohibited. 
+- Harassment will not be tolerated. If you notice such activities kindly report to the Hackathon organizer
+
+- The code must be your own and must be created during the event
+
+- Plagiarism is strictly prohibited
   
