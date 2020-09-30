@@ -20,7 +20,7 @@
 
 - Behave professionally - do not insult/put down other participants and treat everyone with respect
 
-- Harassment will not be tolerated. If you notice such activities kindly report to the Hackathon organizer
+- Harassment will not be tolerated. If you notice such activities kindly report to the  owner of this repo.
 
 - The code must be your own and must be created during the event
 
