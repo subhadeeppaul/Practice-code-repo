@@ -48,7 +48,7 @@ string decrypt(string message, int shift){
 int main() { 
 	create_dict(); 
 	string message;
-  getline(cin, message);
+  	getline(cin, message);
 	int shift = 13; 
 	cout << decrypt(message, shift) << "\n"; 
 	return 0; 
