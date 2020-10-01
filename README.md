@@ -51,7 +51,7 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 ❌ Other conduct which could reasonably be considered inappropriate in a professional setting
 
-❌ There should be atleast 4 programs with comments that cn help others understand.
+-There should be atleast 4 programs with comments that cn help others understand.
 
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html]
 
