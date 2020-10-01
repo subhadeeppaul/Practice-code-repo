@@ -83,5 +83,22 @@ For answers to common questions about this code of conduct, see [https://www.con
 
 - Raise a Pull Request to the parent Repository
 
+## Syncing a fork
+
+- Fetch the changes made in upstream
+
+##### `git fetch upstream`
+
+- Merge the changes from upstream/master into your local master branch.
+
+##### `git merge upstream/master`
+
+- Push to your branch
+
+##### `git push`
+
+
+
+
 
 
