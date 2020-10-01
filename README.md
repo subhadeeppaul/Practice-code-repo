@@ -61,3 +61,27 @@ For answers to common questions about this code of conduct, see [https://www.con
 <p align = "center"><img src = "https://media.giphy.com/media/j1Xyt3DHfJcmk/giphy.gif" width = 30%></p>
   
 
+## How to Contribute
+
+- Fork the Repository
+
+- Clone the Forked repository
+
+##### ` git clone https://github.com/<USER_NAME>/<REPO_NAME>`
+
+- Add Scripts and necessary changes
+
+##### ` git add .`
+
+- Commit the changes
+
+##### `git commit -m "MESSAGE"`
+
+- Push to your branch
+
+##### `git push`
+
+- Raise a Pull Request to the parent Repository
+
+
+
